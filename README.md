@@ -19,6 +19,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
 * hey!
+*hello!
 ## Planned
 
 * Unit testing for HTTP requests like in [google-http-client](https://github.com/google/google-http-java-client)
